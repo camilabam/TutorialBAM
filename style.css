@@ -1,0 +1,24 @@
+
+
+body{
+    background-color: lightgoldenrodyellow;
+margin: 50px;
+padding: 50px 100px;
+border: 1px solid black;
+}
+
+img{
+
+    width: 100%;
+}
+
+.textoCentrado {
+
+text-align: center;
+
+}
+
+.textoColor {
+
+    color: red;
+}
